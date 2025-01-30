@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm kenenisa beyan</h1>
+I am Computer Science and Engineering student at ASTU, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" alt="kenenisabeyan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan" alt="kenenisabeyan" /></a> </p>
 
-I am kennennkljsjkhfdlkasjlkjdaslkjdlkasjdlkasjdlksajds
+
 
 - 🌱 I’m currently learning **kldfjlkskdkfjlksdjfl;sdjl/fkjkdsf**
 
