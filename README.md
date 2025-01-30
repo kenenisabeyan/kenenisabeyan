@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm kenenisa beyan</h1>
-I am Computer Science and Engineering student at ASTU, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
+I am a Computer Science and Engineering student at Adama Science and Technology University (ASTU) with a strong passion for technology, innovation, and creative problem-solving. My exploration of computer science is fueled by curiosity and a dedication to lifelong learning, constantly seeking new ideas and challenges to expand my knowledge and skills.
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" alt="kenenisabeyan" /> </p>
