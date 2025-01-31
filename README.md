@@ -43,11 +43,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&locale=en" alt="kenenisabeyan" /></p>
 
 
-<h3 align="left">📫Connect with me:</h3>
- Get in Touch<br/>
-Check out my Portfolio Site.<br/>
-Connect with me on Twitter.<br/>
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀<br/>
+<h3 align="left">## 📫 Connect With Me</h3>
+- 📧 Get in touch – Always open to discussions and collaborations! <br/>
+- 🌐 Check out my Portfolio Site (Coming Soon!)<br/>
+- 🐦 Connect with me on Twitter  <br/>
+- 🚀 Thanks for stopping by! Let’s explore the fascinating world of technology together.<br/>
 
 <p align="left">
 </p>
