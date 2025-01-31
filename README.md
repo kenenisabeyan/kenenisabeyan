@@ -5,7 +5,7 @@
 <h3 align="center">🚀A passionate Full-Stack Developer and Competitive Programmer </h3><h4></h4>💡 Passionate about solving complex problems and optimizing solutions.<br/> 💻 Building scalable web apps & writing efficient algorithms.<br/> 📚 Always learning, always sharing!<br/>  <h4/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" alt="kenenisabeyan" /> </p>
-<h5>## 🚀 What I Do</h5>
+## 🚀 What I Do<br/>
 - 🌐 Exploring software development, competitive programming, and computer graphics<br/>
 - 🖊️ Sharing knowledge through technical writing and tutorials<br/>
 - 💡 Innovating and collaborating on projects to push the boundaries of tech <br/><br/><br/><br/>
@@ -43,12 +43,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&locale=en" alt="kenenisabeyan" /></p>
 
 
-<h3 align="left">## 📫 Connect With Me</h3>
+<h3 align="left">## 📫 Connect With Me<br/>
 - 📧 Get in touch – Always open to discussions and collaborations! <br/>
 - 🌐 Check out my Portfolio Site (Coming Soon!)<br/>
 - 🐦 Connect with me on Twitter  <br/>
 - 🚀 Thanks for stopping by! Let’s explore the fascinating world of technology together.<br/>
 
 <p align="left">
-</p>
+</p></h3>
 
