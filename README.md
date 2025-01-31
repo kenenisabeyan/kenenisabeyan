@@ -11,10 +11,10 @@
 💡 Innovating and collaborating on projects that push the boundaries of technology<br/><br/><br/><br/>
 
 
-🎯 Goals<br/>
-Contribute to open-source projects and grow as a developer<br/>
-Participate in coding competitions to sharpen problem-solving skills<br/>
-Build impactful solutions and collaborate with like-minded individuals<br/>
+### 🎯 Goals <br/>
+- 🚀 Contribute to open-source projects and grow as a developer <br/>
+- 🏆 Participate in coding competitions to sharpen problem-solving skills <br/>
+- 💡 Build impactful solutions and collaborate with like-minded individuals<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan" alt="kenenisabeyan" /></a> </p>
 
