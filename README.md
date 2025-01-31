@@ -3,10 +3,10 @@ I am a Computer Science and Engineering student at Adama Science and Technology 
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" alt="kenenisabeyan" /> </p>
-🚀 What I Do
-🌐 Exploring software development, competitive programming, and computer graphics
-🖊️ Sharing insights and knowledge through technical writing
-💡 Innovating and collaborating on projects that push the boundaries of technology
+🚀 What I Do<br/>
+🌐 Exploring software development, competitive programming, and computer graphics<br/>
+🖊️ Sharing insights and knowledge through technical writing<br/>
+💡 Innovating and collaborating on projects that push the boundaries of technology<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan" alt="kenenisabeyan" /></a> </p>
 
