@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenenisa Beyan<h1/>
-<small>This is the text that you want to appear in a smaller font size.</small> 
+<sub>This is the text that you want to appear in a smaller font size.</sub> 
 I am a Computer Science and Engineering student at Adama Science and Technology University (ASTU) with a deep passion for technology, innovation, and problem-solving. My journey in the field of computer science is driven by curiosity, creativity, and a commitment to continuous learning.
 
 
