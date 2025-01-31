@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" alt="kenenisabeyan" /> </p>
 
 ### 🚀 What I Do  
-- 🌐 Exploring software development, competitive programming, and computer graphics  
-- 🖊️ Sharing knowledge through technical writing and tutorials  
+- 🌐 Exploring software development and competitive programming
+- 🖊️ Sharing knowledge through technical writing and tutorials 
 - 💡 Innovating and collaborating on projects to push the boundaries of tech  
 
 
@@ -20,14 +20,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan" alt="kenenisabeyan" /></a> </p>
 
-
-
 🌱 **Currently Learning**<br/>
 - 🏆 Competitive Programming to develop strong problem-solving skills <br/>
 - 🎨 Computer Graphics and its real-world applications <br/>
 - 💻 Open-source development and effective GitHub collaboration<br/><br/><br/>
-## 💬🚀 Ask Me About<br/>
 
+## 💬🚀 Ask Me About<br/>
 - 📌 Coding in Python, C++, and Java<br/>
 - 🏗️ Building software and writing clean code<br/>
 - 🔢 Problem-solving with data structures & algorithms <br/>
@@ -46,11 +44,6 @@
 
 
 <h3 align="left">
-
-### 🚀 What I Do  
-- 🌐 Exploring software development, competitive programming, and computer graphics  
-- 🖊️ Sharing knowledge through technical writing and tutorials  
-- 💡 Innovating and collaborating on projects to push the boundaries of tech  
 
 ## 📫 Connect With Me  <br/>
 - 📧 Get in touch – Always open to discussions and collaborations!  <br/>
