@@ -46,6 +46,11 @@ Mathematics for computer science<br/>
 
 
 <h3 align="left">📫Connect with me:</h3>
+ Get in Touch<br/>
+Check out my Portfolio Site.<br/>
+Connect with me on Twitter.<br/>
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀<br/>
+
 <p align="left">
 </p>
 
