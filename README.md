@@ -20,10 +20,10 @@
 
 
 
-- 🌱 I’m currently learning<br/>
-Competitive programming to enhance problem-solving skills<br/>
-Computer graphics and its applications in modern technology<br/>
-Open-source development and collaboration on GitHub<br/><br/><br/>
+🌱 **Currently Learning**<br/>
+- 🏆 Competitive Programming to develop strong problem-solving skills <br/>
+- 🎨 Computer Graphics and its real-world applications <br/>
+- 💻 Open-source development and effective GitHub collaboration<br/><br/><br/>
 💬🚀 Ask me about:<br/>
 
 Algorithms & data structures<br/>
