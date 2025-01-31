@@ -24,11 +24,12 @@
 - 🏆 Competitive Programming to develop strong problem-solving skills <br/>
 - 🎨 Computer Graphics and its real-world applications <br/>
 - 💻 Open-source development and effective GitHub collaboration<br/><br/><br/>
-💬🚀 Ask me about:<br/>
+## 💬🚀 Ask Me About<br/>
 
-Algorithms & data structures<br/>
-Software development & best practices<br/>
-Mathematics for computer science<br/>
+- 📌 Coding in Python, C++, and Java<br/>
+- 🏗️ Building software and writing clean code<br/>
+- 🔢 Problem-solving with data structures & algorithms <br/>
+- 📚 Math concepts used in computer science <br/> 
 
 
 
