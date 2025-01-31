@@ -6,7 +6,7 @@ I am a Computer Science and Engineering student at Adama Science and Technology 
 🚀 What I Do<br/>
 🌐 Exploring software development, competitive programming, and computer graphics<br/>
 🖊️ Sharing insights and knowledge through technical writing<br/>
-💡 Innovating and collaborating on projects that push the boundaries of technology<br/>
+💡 Innovating and collaborating on projects that push the boundaries of technology<br/><br/><br/><br/>
 
 
 🎯 Goals<br/>
