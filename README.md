@@ -43,12 +43,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&locale=en" alt="kenenisabeyan" /></p>
 
 
-<h3 align="left">## 📫 Connect With Me<br/>
-- 📧 Get in touch – Always open to discussions and collaborations! <br/>
-- 🌐 Check out my Portfolio Site (Coming Soon!)<br/>
+<h3 align="left">
+To ensure that "What I Do" is larger and the rest of the sections are smaller, here’s a markdown layout with different header sizes for balance:
+
+md
+Copy code
+### 🚀 What I Do  
+- 🌐 Exploring software development, competitive programming, and computer graphics  
+- 🖊️ Sharing knowledge through technical writing and tutorials  
+- 💡 Innovating and collaborating on projects to push the boundaries of tech  
+
+## 📫 Connect With Me  <br/>
+- 📧 Get in touch – Always open to discussions and collaborations!  <br/>
+- 🌐 Check out my Portfolio Site (Coming Soon!)  <br/>
 - 🐦 Connect with me on Twitter  <br/>
 - 🚀 Thanks for stopping by! Let’s explore the fascinating world of technology together.<br/>
-
 <p align="left">
 </p></h3>
 
