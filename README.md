@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kenenisa Beyan<h1/>
   
-I am a Computer Science and Engineering student at Adama Science and Technology University (ASTU) with a deep passion for technology, innovation, and problem-solving. My journey in the field of computer science is driven by curiosity, creativity, and a commitment to continuous learning.<h2/>
+I am a Computer Science and Engineering student at Adama Science and Technology University (ASTU) with a deep passion for technology, innovation, and problem-solving. My journey in the field of computer science is driven by curiosity, creativity, and a commitment to continuous learning.
+
+<h2/>
 
 
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>As a full-stack developer and competitive programmer, I enjoy tackling complex challenges, building efficient solutions, and sharing my knowledge with the community.<h4/>
