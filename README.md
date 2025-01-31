@@ -44,10 +44,7 @@
 
 
 <h3 align="left">
-To ensure that "What I Do" is larger and the rest of the sections are smaller, here’s a markdown layout with different header sizes for balance:
 
-md
-Copy code
 ### 🚀 What I Do  
 - 🌐 Exploring software development, competitive programming, and computer graphics  
 - 🖊️ Sharing knowledge through technical writing and tutorials  
