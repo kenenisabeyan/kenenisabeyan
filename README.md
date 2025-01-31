@@ -8,7 +8,7 @@
 <h3 align="center">A passionate full stack developer from Ethiopia</h3><h4></h4>As a full-stack developer and competitive programmer, I enjoy tackling complex challenges, building efficient solutions, and sharing my knowledge with the community.<h4/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" alt="kenenisabeyan" /> </p>
-🚀 What I Do<br/>
+<h5>🚀 What I Do</h5>
 🌐 Exploring software development, competitive programming, and computer graphics<br/>
 🖊️ Sharing insights and knowledge through technical writing<br/>
 💡 Innovating and collaborating on projects that push the boundaries of technology<br/><br/><br/><br/>
