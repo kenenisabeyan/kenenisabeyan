@@ -20,12 +20,12 @@ Build impactful solutions and collaborate with like-minded individuals<br/>
 
 - 🌱 I’m currently learning<br/>
 - Competitive programming to enhance problem-solving skills<br/>
-Computer graphics and its applications in modern technology<br/>
-Open-source development and collaboration on GitHub<br/>
-- 💬 Ask me about <br/><br/><br/>
-Algorithms & data structures<br/>
-Software development & best practices<br/>
-Mathematics for computer science<br/>
+-Computer graphics and its applications in modern technology<br/>
+-Open-source development and collaboration on GitHub<br/><br/><br/>
+- 💬 Ask me about <br/>
+-Algorithms & data structures<br/>
+-Software development & best practices<br/>
+-Mathematics for computer science<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
