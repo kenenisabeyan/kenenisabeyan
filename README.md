@@ -13,7 +13,7 @@
 
 
 
-### 🎯 Goals <br/>
+### 🎯 Goals 
 - 🚀 Contribute to open-source projects and grow as a developer <br/>
 - 🏆 Participate in coding competitions to sharpen problem-solving skills <br/>
 - 💡 Build impactful solutions and collaborate with like-minded individuals<br/>
