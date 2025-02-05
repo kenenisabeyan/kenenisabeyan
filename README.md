@@ -4,7 +4,7 @@
 
 <h3 align="center">🚀 Passionate Full-Stack Developer and Competitive Programmer </h3><h4></h4>💡 Passionate about solving complex problems and optimizing solutions.<br/> 💻 Building scalable web apps & writing efficient algorithms.<br/> 📚 Always learning, always sharing!<br/>  <h4/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" alt="kenenisabeyan" /> </p>
+>
 
 ### 🚀 What I Do  
 - 🌐 Exploring software development and competitive programming
@@ -16,8 +16,7 @@
 ### 🎯 Goals 
 - 🚀 Contribute to open-source projects and grow as a developer 
 - 🏆 Participate in coding competitions to sharpen problem-solving skills 
-- 💡 Build impactful solutions and collaborate with like-minded individuals<br/>
-
+- 💡 Build impactful solutions and collaborate with like-minded individuals
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan" alt="kenenisabeyan" /></a> </p>
 
 🌱 **Currently Learning**<br/>
