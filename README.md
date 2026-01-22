@@ -1,8 +1,8 @@
-<h1 align="center" style="font-size: 52px;">
+<h1 align="center" style="font-size: 72px;">
   Hello there 👋, I'm Kenenisa Beyan
 </h1>
 
-<p align="center" style="font-size: 22px;">
+<p align="center" style="font-size: 42px;">
   <strong>Full-Stack Developer building modern, scalable web applications</strong>
 </p>
 
