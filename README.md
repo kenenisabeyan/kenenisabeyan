@@ -1,15 +1,21 @@
-<h1 align="center">Hello there 👋, I'm Kenenisa Beyan</h1>
+<h1 align="center" style="font-size: 52px;">
+  Hello there 👋, I'm Kenenisa Beyan
+</h1>
 
-<p align="center">
-  <strong>Full-Stack Developer building modern web applications</strong>
+<p align="center" style="font-size: 22px;">
+  <strong>Full-Stack Developer building modern, scalable web applications</strong>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Building modern, scalable web applications  
-- 📚 Always learning & improving  
-- 💡 Focused on clean code and real-world solutions  
+
+I’m a **Full-Stack Developer** focused on building **clean, efficient, and scalable web applications**.  
+I enjoy turning ideas into real-world products, writing maintainable code, and continuously improving my skills in modern web technologies.
+
+- 🚀 Strong focus on **JavaScript-based ecosystems**
+- 💡 Passionate about **problem-solving & system design**
+- 📚 Constant learner with a growth mindset
 
 ---
 
@@ -38,17 +44,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
-- <a href="https://www.linkedin.com/in/kenenisa-beyan-617692349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" >💼 LinkedIn</a>
-- 🌐 Portfolio (Coming Soon)
+### 📫 Contact & Links
 
+- 💼 <a href="https://www.linkedin.com/in/kenenisa-beyan-617692349" target="_blank">LinkedIn</a>  
+- 📧 Email: **kenenisab05@gmail.com**  
+- 🌐 Portfolio: *Coming Soon*  
+
+---
