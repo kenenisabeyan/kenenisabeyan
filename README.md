@@ -1,10 +1,11 @@
-<h1 align="center" style="font-size: 72px;">
+<h1 align="center">
   Hello there 👋, I'm Kenenisa Beyan
 </h1>
 
-<p align="center" style="font-size: 42px;">
+<h2 align="center">
   <strong>Full-Stack Developer building modern, scalable web applications</strong>
-</p>
+</h2>
+
 
 ---
 
