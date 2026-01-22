@@ -43,7 +43,6 @@ I enjoy turning ideas into real-world products, writing maintainable code, and c
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;&nbsp;
