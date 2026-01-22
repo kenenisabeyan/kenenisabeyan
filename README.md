@@ -49,6 +49,6 @@
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn  
+- 💼 LinkedIn  <a href="https://www.linkedin.com/in/kenenisa-beyan-617692349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
 - 🌐 Portfolio (Coming Soon)
 
