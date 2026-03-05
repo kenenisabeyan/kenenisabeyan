@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
 
-<!--
-**kenenisabeyan/kenenisabeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Full-Stack Developer | CSE Student at ASTU</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💡 Founder of <b>EDOT Platform</b><br>
+Building scalable web applications and always learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>🛠 Tech Stack</h2>
+
+<p>
+JavaScript | TypeScript | React | Node.js | C++ | Java
+</p>
+
+<hr>
+
+<h2>📚 Currently Learning</h2>
+
+<ul>
+<li>Advanced Web Development</li>
+<li>System Design</li>
+<li>Competitive Programming</li>
+</ul>
+
+<hr>
+
+<h2>🌍 Location</h2>
+
+<p>Adama, Ethiopia</p>
