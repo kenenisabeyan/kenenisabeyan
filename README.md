@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | CSE Student at ASTU</h3>
+<h3 align="center"> Full-Stack Developer | CSE Student at ASTU</h3>
 
 <p align="center">
 💡 Founder of <b>EDOT Platform</b><br>
