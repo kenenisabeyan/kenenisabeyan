@@ -1,72 +1,39 @@
-<h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
-<h3 align="center">Full-Stack Developer | CSE Student at ASTU</h3>
+<h1 align="center">Hi 👋 I'm Kenenisa Beyan</h1>
 
 <p align="center">
-💡 Founder of <b>EDOT Platform</b><br>
-Building scalable web applications and always learning new technologies.
+🚀 MERN Stack Developer <br>
+🎓 Computer Science & Engineering Student (ASTU) <br>
+💡 Founder of EDOT Platform
+</p>
+
+<p align="center">
+I build scalable and responsive full-stack web applications using the MERN stack.
 </p>
 
 <hr>
+
+<h3>💻 Tech Stack</h3>
+
+<p>
+MongoDB | Express.js | React | Node.js | JavaScript | TypeScript
+</p>
+
+<h3>⚡ What I Can Do</h3>
 
 <ul>
-<li>🔭 I’m currently working on <b>EDOT Platform</b> – an online learning platform</li>
-
-<li>🌱 I’m currently learning <b>Advanced Web Development, System Design, and Competitive Programming</b></li>
-
-<li>👨‍💻 All of my projects are available at <a href="https://github.com/kenenisabeyan">GitHub</a></li>
-
-<li>📫 How to reach me: <b>kenenisab05@gmail.com</b></li>
-
-<li>📍 Location: <b>Adama, Ethiopia</b></li>
+<li>Full-Stack Web Development (MERN)</li>
+<li>REST API Development</li>
+<li>Responsive Frontend UI with React</li>
+<li>Backend Development with Node.js & Express</li>
+<li>Database Design with MongoDB</li>
 </ul>
 
-<hr>
+<h3>🚀 Featured Project</h3>
 
-<h2>🤝 Connect with me</h2>
+<b>EDOT Platform</b> – Education Digital Online Tutorials  
+A full-stack learning platform for online courses and tutoring.
 
-<p>
-<a href="https://linkedin.com/in/keno05">LinkedIn</a>
-</p>
+<h3>📫 Contact</h3>
 
-<hr>
-
-<h2>🛠 Languages and Tools</h2>
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cpp,java,html,css,git,github,vscode" />
-</p>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=dark"/>
-
-</p>
-
-<hr>
-
-<h2>🔥 Contribution Streak</h2>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenenisabeyan&theme=dark"/>
-
-</p>
-
-<hr>
-
-<h2>🚀 Featured Project</h2>
-
-<p>
-<b>EDOT Platform</b><br>
-Education Digital Online Tutorials – A learning platform designed for primary and secondary students that provides online courses and tutoring services.
-</p>
+Email: kenenisab05@gmail.com  
+Location: Adama, Ethiopia
