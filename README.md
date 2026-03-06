@@ -8,7 +8,8 @@ Building scalable web applications and always learning new technologies.
 
 <hr>
 
-<ul>
+<ul style="list-style: none; padding-left: 0;">
+
 <li>🔭 I’m currently working on <b>EDOT Platform</b> – an online learning platform</li>
 
 <li>💻 I build full-stack web applications using <b>MERN Stack, MySQL, and Python</b></li>
@@ -20,6 +21,7 @@ Building scalable web applications and always learning new technologies.
 <li>📫 How to reach me: <b>kenenisab05@gmail.com</b></li>
 
 <li>📍 Location: <b>Adama, Ethiopia</b></li>
+
 </ul>
 
 <hr>
