@@ -16,9 +16,11 @@ Building scalable web applications and always learning new technologies.
 
 <li>🌱 I’m currently learning <b>Advanced Web Development, System Design, and Competitive Programming</b></li>
 
-<li>👨‍💻 All of my projects are available at <a href="https://github.com/kenenisabeyan">GitHub</a></li>
+<li>👨‍💻 All of my projects are available at 
+<a href="https://github.com/kenenisabeyan">GitHub</a></li>
 
-<li>📫 How to reach me: <b>kenenisab05@gmail.com</b></li>
+<li>📫 How to reach me: 
+<a href="mailto:kenenisab05@gmail.com">kenenisab05@gmail.com</a></li>
 
 <li>📍 Location: <b>Adama, Ethiopia</b></li>
 
