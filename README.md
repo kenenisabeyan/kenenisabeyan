@@ -11,7 +11,7 @@ Building scalable web applications and always learning new technologies.
 <ul>
 <li>🔭 I’m currently working on <b>EDOT Platform</b> – an online learning platform</li>
 
-<li>💻 I build full-stack web applications using <b>MERN Stack and MySQL</b></li>
+<li>💻 I build full-stack web applications using <b>MERN Stack, MySQL, and Python</b></li>
 
 <li>🌱 I’m currently learning <b>Advanced Web Development, System Design, and Competitive Programming</b></li>
 
@@ -27,7 +27,13 @@ Building scalable web applications and always learning new technologies.
 <h2>🤝 Connect with me</h2>
 
 <p>
-<a href="https://linkedin.com/in/keno05">LinkedIn</a>
+<a href="https://linkedin.com/in/keno05">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:kenenisab05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 <hr>
@@ -35,7 +41,7 @@ Building scalable web applications and always learning new technologies.
 <h2>🛠 Languages and Tools</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,mysql,cpp,java,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,mysql,python,cpp,java,html,css,git,github,vscode" />
 </p>
 
 <hr>
@@ -43,15 +49,11 @@ Building scalable web applications and always learning new technologies.
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=dark"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=dark"/>
-
 </p>
 
 <hr>
@@ -59,9 +61,7 @@ Building scalable web applications and always learning new technologies.
 <h2>🔥 Contribution Streak</h2>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenenisabeyan&theme=dark"/>
-
 </p>
 
 <hr>
