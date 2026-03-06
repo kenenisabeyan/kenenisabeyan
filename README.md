@@ -1,39 +1,23 @@
-<h1 align="center">Hi 👋 I'm Kenenisa Beyan</h1>
+<h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
 
-<p align="center">
-🚀 MERN Stack Developer <br>
-🎓 Computer Science & Engineering Student (ASTU) <br>
-💡 Founder of EDOT Platform
-</p>
-
-<p align="center">
-I build scalable and responsive full-stack web applications using the MERN stack.
-</p>
-
-<hr>
-
-<h3>💻 Tech Stack</h3>
-
-<p>
-MongoDB | Express.js | React | Node.js | JavaScript | TypeScript
-</p>
-
-<h3>⚡ What I Can Do</h3>
+<h3 align="center">MERN Stack Developer | CSE Student at ASTU</h3>
 
 <ul>
-<li>Full-Stack Web Development (MERN)</li>
-<li>REST API Development</li>
-<li>Responsive Frontend UI with React</li>
-<li>Backend Development with Node.js & Express</li>
-<li>Database Design with MongoDB</li>
+<li>🔭 I’m currently building <b>EDOT Platform</b> – an online education platform</li>
+
+<li>💻 I develop full-stack web applications using the <b>MERN stack</b></li>
+
+<li>⚡ Skilled in <b>MongoDB, Express.js, React, Node.js, JavaScript, TypeScript</b></li>
+
+<li>🚀 Interested in <b>remote freelance and full-stack development opportunities</b></li>
+
+<li>👨‍💻 All of my projects are available at <a href="https://github.com/kenenisabeyan">GitHub</a></li>
+
+<li>📫 How to reach me: <b>kenenisab05@gmail.com</b></li>
 </ul>
 
-<h3>🚀 Featured Project</h3>
+<h3>Languages and Tools</h3>
 
-<b>EDOT Platform</b> – Education Digital Online Tutorials  
-A full-stack learning platform for online courses and tutoring.
-
-<h3>📫 Contact</h3>
-
-Email: kenenisab05@gmail.com  
-Location: Adama, Ethiopia
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,git,github,vscode" />
+</p>
