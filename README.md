@@ -75,4 +75,4 @@ Building scalable web applications and always learning new technologies.
 <p>
 <b>EDOT Platform</b><br>
 Education Digital Online Tutorials – A learning platform designed for primary and secondary students that provides online courses and tutoring services.
-</p>
+</p>hr
