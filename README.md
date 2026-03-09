@@ -50,6 +50,24 @@ Building scalable web applications and always learning new technologies.
 
 <hr>
 
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=dark"/>
+</p>
+
+<hr>
+
+<h2>🔥 Contribution Streak</h2>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenenisabeyan&theme=dark"/>
+</p>
+
 <hr>
 
 <h2>🚀 Featured Project</h2>
