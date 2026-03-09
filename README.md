@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
-<h3 align="center">Full Stack Developer | CSE Student | Founder of EDOT</h3>
+<h3 align="center">Full-Stack Developer | CSE Student | Founder of EDOT Platform</h3>
 
 <p align="center">
-Building scalable web applications and learning new technologies every day 🚀
+Building scalable web applications and continuously learning new technologies 🚀
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently building **EDOT Platform**
-- 🌱 Learning **Advanced Web Development & System Design**
-- 💻 Full Stack Developer (**MERN | MySQL | Python**)
+- 🔭 I’m currently working on **EDOT Platform**
+- 🌱 Learning **Advanced Web Development, System Design & Competitive Programming**
+- 💻 I build **Full-Stack Web Applications (MERN | MySQL | Python)**
 - 🎯 Interested in **Startups & Entrepreneurship**
 - 📍 Based in **Adama, Ethiopia**
 
@@ -23,7 +23,7 @@ Building scalable web applications and learning new technologies every day 🚀
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://linkedin.com/in/keno05">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -41,12 +41,10 @@ Building scalable web applications and learning new technologies every day 🚀
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages and Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,mysql,python,cpp,java,html,css,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,mysql,python,cpp,java,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -55,9 +53,9 @@ Building scalable web applications and learning new technologies every day 🚀
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -87,12 +85,17 @@ Building scalable web applications and learning new technologies every day 🚀
 
 ### EDOT Platform
 
-Education Digital Online Tutorials —  
-A platform for **primary and secondary students** to access online courses and tutoring.
+**Education Digital Online Tutorials**
+
+A learning platform designed for **primary and secondary students** that provides:
+
+- online courses  
+- tutoring services  
+- digital learning resources  
 
 ---
 
-## 💡 Quote
+## 💡 Developer Quote
 
 > "Code is not just solving problems — it's building the future."
 
