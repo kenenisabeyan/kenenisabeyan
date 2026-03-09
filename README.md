@@ -57,11 +57,11 @@ Building scalable web applications and constantly learning new technologies.
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr>
@@ -69,7 +69,7 @@ Building scalable web applications and constantly learning new technologies.
 <h2>🔥 Contribution Streak</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenenisabeyan&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr>
