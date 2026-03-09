@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
-<h3 align="center">Full-Stack Developer | CSE Student at ASTU | Entrepreneurs </h3>
+<h3 align="center">Full-Stack Developer | CSE Student at ASTU | Entrepreneur</h3>
 
 <p align="center">
 💡 Founder of <b>EDOT Platform</b><br>
-Building scalable web applications and always learning new technologies.
+Building scalable web applications and constantly learning new technologies.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 <hr>
@@ -19,7 +23,7 @@ Building scalable web applications and always learning new technologies.
 <li>👨‍💻 All of my projects are available at 
 <a href="https://github.com/kenenisabeyan">GitHub</a></li>
 
-<li>📫 How to reach me: 
+<li>📫 Reach me at: 
 <a href="mailto:kenenisab05@gmail.com">kenenisab05@gmail.com</a></li>
 
 <li>📍 Location: <b>Adama, Ethiopia</b></li>
@@ -53,11 +57,11 @@ Building scalable web applications and always learning new technologies.
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight"/>
 </p>
 
 <hr>
@@ -65,8 +69,18 @@ Building scalable web applications and always learning new technologies.
 <h2>🔥 Contribution Streak</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenenisabeyan&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenenisabeyan&theme=tokyonight"/>
 </p>
+
+<hr>
+
+<h2>🎯 Current Focus</h2>
+
+<ul>
+<li>Building the EDOT Learning Platform</li>
+<li>Improving System Design Skills</li>
+<li>Practicing Competitive Programming</li>
+</ul>
 
 <hr>
 
@@ -75,4 +89,14 @@ Building scalable web applications and always learning new technologies.
 <p>
 <b>EDOT Platform</b><br>
 Education Digital Online Tutorials – A learning platform designed for primary and secondary students that provides online courses and tutoring services.
-</p>hr
+</p>
+
+<hr>
+
+<h2>💭 Developer Quote</h2>
+
+<p>
+"Code is not just about solving problems, it's about creating possibilities."
+</p>
+
+<hr>
