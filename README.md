@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Software Engineer;CSE+Student+at+ASTU;Founder+of+EDOT+Platform;Building+Scalable+Web+Applications" />
+  <b>Full-Stack Software Engineer • Entrepreneur • CSE Student at ASTU</b>
 </p>
 
-<h3 align="center">Full-Stack Software Engineer | CSE Student at ASTU | Entrepreneur</h3>
+<p align="center">
+  Building scalable web applications and impactful digital learning systems.
+</p>
 
 <p align="center">
-💡 Founder of <b>EDOT Platform</b><br>
-Building scalable web applications and constantly learning new technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Founder+of+EDOT+Platform;MERN+%7C+Django+Developer;Building+Real-World+Solutions" />
 </p>
 
 <p align="center">
@@ -17,104 +18,89 @@ Building scalable web applications and constantly learning new technologies.
 
 ---
 
-<ul style="list-style: none; padding-left: 0;">
+<h2>🚀 About Me</h2>
 
-<li>🔭 I’m currently working on <b>EDOT Platform</b> – an online learning platform</li>
-
-<li>💻 I build full-stack web applications using <b>MERN Stack, MySQL, and Python</b></li>
-
-<li>🌱 I’m currently learning <b>Advanced Web Development, System Design, and Competitive Programming</b></li>
-
-<li>👨‍💻 All of my projects are available at 
-<a href="https://github.com/kenenisabeyan">GitHub</a></li>
-
-<li>📫 Reach me at: 
-<a href="mailto:kenenisab05@gmail.com">kenenisab05@gmail.com</a></li>
-
-<li>📍 Location: <b>Adama, Ethiopia</b></li>
-
+<ul>
+<li>🔭 Currently building <b>EDOT Platform</b> — a scalable digital learning system</li>
+<li>💻 Focused on <b>Full-Stack Development (MERN + Django)</b></li>
+<li>🌱 Learning <b>System Design, Advanced Web Architecture, and Competitive Programming</b></li>
+<li>📫 Contact: <a href="mailto:kenenisab05@gmail.com">kenenisab05@gmail.com</a></li>
+<li>📍 Based in <b>Adama, Ethiopia</b></li>
 </ul>
 
 ---
 
-<h2>🤝 Connect with me</h2>
+<h2>🛠 Tech Stack</h2>
 
-<p>
-<a href="https://linkedin.com/in/keno05">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,python,django,mongodb,postgresql,java,cpp" />
+</p>
 
-<a href="mailto:kenenisab05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
+<p align="center">
+<strong>
+Frontend: React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind  
+<br/>
+Backend: Node.js • Express • Python • Django  
+<br/>
+Database: MongoDB • PostgreSQL  
+<br/>
+Core: REST APIs • Data Structures • Algorithms • OOP
+</strong>
 </p>
 
 ---
 
-<h2>🛠 Languages and Tools</h2>
+<h2>🤝 Connect</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,python,django,mongodb,postgresql,java,cpp" />
+<p align="center">
+<a href="https://linkedin.com/in/keno05">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:kenenisab05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
-<p>
-<strong>
-React.js • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind  
-<br/>
-Node.js • Express • Python • Django • MongoDB • PostgreSQL • REST APIs • Data Structures • Java • C++
-</strong>
-</p>
 ---
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h2>🔥 Contribution Streak</h2>
+<h2>🔥 Streak</h2>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-<h2>📈 GitHub Activity Graph</h2>
+<h2>📈 Activity</h2>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenenisabeyan&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>🏆 Achievements</h2>
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
 </p>
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
+<h2>🚀 Featured Project</h2>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
+<p>
+<b>EDOT Platform</b><br/>
+A modern education platform designed for primary and secondary students, providing structured learning paths, online courses, and tutoring services.
 </p>
 
 ---
@@ -122,27 +108,15 @@ Node.js • Express • Python • Django • MongoDB • PostgreSQL • REST AP
 <h2>🎯 Current Focus</h2>
 
 <ul>
-<li>Building the EDOT Learning Platform</li>
-<li>Improving System Design Skills</li>
+<li>Scaling EDOT Platform</li>
+<li>Improving System Design & Architecture</li>
 <li>Practicing Competitive Programming</li>
 </ul>
 
 ---
 
-<h2>🚀 Featured Project</h2>
+<h2>💭 Philosophy</h2>
 
-<p>
-<b>EDOT Platform</b><br>
-Education Digital Online Tutorials – A learning platform designed for primary and secondary students that provides online courses and tutoring services.
+<p align="center">
+<b>"Great software is not just built — it is designed, scaled, and continuously improved."</b>
 </p>
-
----
-
-<h2>💭 Developer Quote</h2>
-
-<p>
-"Code is not just solving problems — it's building the future."
-</p>
-
----
-
