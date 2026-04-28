@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;CSE+Student+at+ASTU;Founder+of+EDOT+Platform;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Software Engineer;CSE+Student+at+ASTU;Founder+of+EDOT+Platform;Building+Scalable+Web+Applications" />
 </p>
 
 <h3 align="center">Full-Stack Software Engineer | CSE Student at ASTU | Entrepreneur</h3>
