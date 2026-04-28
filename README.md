@@ -55,9 +55,16 @@ Building scalable web applications and constantly learning new technologies.
 <h2>🛠 Languages and Tools</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,mysql,python,cpp,java,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,python,django,mongodb,postgresql,java,cpp" />
 </p>
 
+<p>
+<strong>
+React.js • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind  
+<br/>
+Node.js • Express • Python • Django • MongoDB • PostgreSQL • REST APIs • Data Structures • Java • C++
+</strong>
+</p>
 ---
 
 <h2>📊 GitHub Stats</h2>
