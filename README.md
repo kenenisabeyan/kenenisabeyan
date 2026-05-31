@@ -1,1 +1,207 @@
-<h1 align="center">Hi 👋, I'm Kenenisa Beyan</h1> <p align="center"> <b>Full-Stack Software Engineer • Entrepreneur • CSE Student at ASTU</b> </p> <p align="center"> Building scalable web applications and impactful digital learning systems. </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Founder+of+EDOT+Platform;MERN+%7C+Django+Developer;Building+Real-World+Solutions" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile%20views&color=0e75b6&style=flat"/> </p> --- <h2>🚀 About Me</h2> <ul> <li>🔭 Currently building <b>EDOT Platform</b> — a scalable digital learning system</li> <li>💻 Focused on <b>Full-Stack Development (MERN + Django)</b></li> <li>🌱 Learning <b>System Design, Advanced Web Architecture, and Competitive Programming</b></li> <li>📫 Contact: <a href="mailto:kenenisab05@gmail.com">kenenisab05@gmail.com</a></li> <li>📍 Based in <b>Adama, Ethiopia</b></li> </ul> --- <h2>🛠 Tech Stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,python,django,mongodb,postgresql,java,cpp" /> </p> <p align="center"> <strong> Frontend: React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind <br/> Backend: Node.js • Express • Python • Django <br/> Database: MongoDB • PostgreSQL <br/> Core: REST APIs • Data Structures • Algorithms • OOP </strong> </p> --- <h2>🤝 Connect</h2> <p align="center"> <a href="https://linkedin.com/in/keno05"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:kenenisab05@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p> --- <h2>📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/> </p> --- <h2>🔥 Streak</h2> <p align="center"> <img src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true"/> </p> --- <h2>📈 Activity</h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenenisabeyan&theme=tokyo-night&hide_border=true"/> </p> --- <h2>🏆 Achievements</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </p> --- <h2>🚀 Featured Project</h2> <p> <b>EDOT Platform</b><br/> A modern education platform designed for primary and secondary students, providing structured learning paths, online courses, and tutoring services. </p> --- <h2>🎯 Current Focus</h2> <ul> <li>Scaling EDOT Platform</li> <li>Improving System Design & Architecture</li> <li>Practicing Competitive Programming</li> </ul> --- <h2>💭 Philosophy</h2> <p align="center"> <b>"Great software is not just built — it is designed, scaled, and continuously improved."</b> </p>
+<div align="center">
+
+# 👋 Hi, I'm Kenenisa Beyan
+
+<h3>
+Full Stack Developer • AI Engineer • FinTech Builder • Entrepreneur
+</h3>
+
+Building scalable digital products that solve real-world problems and create meaningful impact.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer;FinTech+Builder;Founder+of+EDOT+Platform;Building+Technology+for+Impact" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🎯 Mission
+
+> To leverage technology and artificial intelligence to build innovative financial and educational solutions that empower individuals and drive economic growth.
+
+---
+
+# 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Who I Am
+
+- 💻 Full Stack Developer passionate about modern web applications
+- 🤖 AI & Machine Learning enthusiast
+- 💰 FinTech builder focused on innovation
+- 🌱 Learning System Design & Scalable Architecture
+- 🎓 Computer Science & Engineering Student at ASTU
+
+</td>
+
+<td width="50%">
+
+### 🎯 Current Focus
+
+- Building **EDOT Platform**
+- Exploring **Artificial Intelligence**
+- Developing **FinTech Solutions**
+- Mastering **System Design**
+- Creating products that scale globally
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Core Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+
+### ⚙ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🏦 AI FinTech Systems
+
+AI-powered financial solutions for smarter transactions and insights.
+
+**Tech:** AI • FinTech
+
+</td>
+
+<td align="center" width="33%">
+
+### ⭐ Credit Risk Probability Model
+
+Machine learning model to predict credit risk and support lending decisions.
+
+**Tech:** Machine Learning
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛡 Secure Payment Gateway
+
+A secure and scalable payment gateway for modern applications.
+
+**Tech:** FinTech • Backend
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kenenisabeyan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🌍 Location
+
+📍 Adama, Ethiopia 🇪🇹
+
+### Areas of Interest
+
+- Artificial Intelligence
+- FinTech Innovation
+- Full Stack Development
+- System Design
+- Entrepreneurship
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kenenisab05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://linkedin.com/in/keno05">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://github.com/kenenisabeyan">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+### *"Code is not just what I write — it's how I solve problems and build a better future."*
+
+</div>
