@@ -1,65 +1,248 @@
-<div align="center">
-  <p align="center">👋 Hi, I'm</p>
-  <h1><font size="7" color="#ffffff">Kenenisa</font> <font size="7" color="#3498db">Beyan</font></h1>
-  <p align="center">
-    <b>💻 Software Engineer</b> | <b>🚀 Full-Stack Developer</b> | <b>🧠 AI & FinTech Builder</b> | <b>🎓 Founder of EDOT</b>
-  </p>
-  <p align="center">
-    Building technology that expands access to education, creates opportunities, and scales impact through software.
-  </p>
-</div>
+<svg width="1200" height="1600" viewBox="0 0 1200 1600"
+xmlns="http://www.w3.org/2000/svg">
 
----
+<defs>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      📊 <font color="#8b949e">Profile Views</font><br/>
-      <font size="5" color="#3498db"><b>921</b></font>
-    </td>
-    <td align="center" width="25%">
-      🎯 <font color="#8b949e">Focus</font><br/>
-      <font size="4" color="#ffffff"><b>AI | FinTech | EdTech</b></font>
-    </td>
-    <td align="center" width="25%">
-      🌍 <font color="#8b949e">Location</font><br/>
-      <font size="4" color="#2ecc71"><b>Ethiopia 🇪🇹</b></font>
-    </td>
-    <td align="center" width="25%">
-      📍 <font color="#8b949e">Based in</font><br/>
-      <font size="4" color="#9b59b6"><b>Adama, Ethiopia</b></font>
-    </td>
-  </tr>
-</table>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#020617"/>
+<stop offset="50%" stop-color="#0F172A"/>
+<stop offset="100%" stop-color="#030712"/>
+</linearGradient>
 
-<table width="100%">
-  <tr>
-    <td>
-      <p align="center">
-        🎯 <b><font color="#2ecc71">Mission:</font></b> Building complete digital ecosystems that help learners <font color="#2ecc71">access knowledge</font>, develop high-value skills, and unlock <font color="#2ecc71">sustainable future opportunities</font>.
-      </p>
-    </td>
-  </tr>
-</table>
+<linearGradient id="nameGradient">
+<stop offset="0%" stop-color="#ffffff"/>
+<stop offset="100%" stop-color="#7C3AED"/>
+</linearGradient>
 
----
+<filter id="glow">
+<feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
 
-## 🙋‍♂️ About Me
+</defs>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      • 👨‍🎓 <b>Computer Science & Engineering student</b>, software engineer, and entrepreneur passionate about building systems that solve <font color="#3498db">real-world problems</font>.<br/><br/>
-      • 💡 I am currently building <font color="#9b59b6"><b>EDOT (Education Digital Online Tutorials)</b></font> — an educational technology platform designed to connect learners, educators, and institutions through a unified digital ecosystem.
-    </td>
-    <td width="50%" valign="top">
-      • 🛠️ My work focuses on creating <font color="#3498db"><b>scalable software products</b></font>, designing modern digital experiences, leveraging machine learning, and expanding access to education.<br/><br/>
-      • 🚀 Unlike traditional portfolio projects, my focus is on developing products with <font color="#2ecc71"><b>long-term value, scalability, and measurable impact</b></font>.
-    </td>
-  </tr>
-</table>
+<!-- Background -->
 
----
+<rect width="1200" height="1600" fill="url(#bg)"/>
+
+<!-- Header -->
+
+<text x="600"
+      y="120"
+      text-anchor="middle"
+      font-size="68"
+      font-weight="700"
+      fill="url(#nameGradient)">
+Kenenisa Beyan
+</text>
+
+<text x="600"
+      y="170"
+      text-anchor="middle"
+      font-size="24"
+      fill="#CBD5E1">
+💻 Full Stack Developer | 🤖 AI Engineer | 📈 FinTech Builder | 🚀 Entrepreneur
+</text>
+
+<text x="600"
+      y="220"
+      text-anchor="middle"
+      font-size="22"
+      fill="#94A3B8">
+I build scalable digital products that solve real-world problems.
+</text>
+
+<!-- Top Cards -->
+
+<rect x="60" y="280" width="250" height="90"
+rx="15"
+fill="#111827"
+stroke="#2563EB"/>
+
+<text x="185" y="330"
+text-anchor="middle"
+fill="#38BDF8"
+font-size="22">
+👁 Profile Views
+</text>
+
+<rect x="340" y="280" width="250" height="90"
+rx="15"
+fill="#111827"
+stroke="#9333EA"/>
+
+<text x="465" y="330"
+text-anchor="middle"
+fill="#A78BFA"
+font-size="22">
+🎯 AI | FinTech
+</text>
+
+<rect x="620" y="280" width="250" height="90"
+rx="15"
+fill="#111827"
+stroke="#22C55E"/>
+
+<text x="745" y="330"
+text-anchor="middle"
+fill="#22C55E"
+font-size="22">
+🌍 Ethiopia
+</text>
+
+<rect x="900" y="280" width="250" height="90"
+rx="15"
+fill="#111827"
+stroke="#EC4899"/>
+
+<text x="1025" y="330"
+text-anchor="middle"
+fill="#EC4899"
+font-size="22">
+📍 Adama
+</text>
+
+<!-- Mission -->
+
+<rect x="50"
+      y="410"
+      width="1100"
+      height="110"
+      rx="18"
+      fill="#111827"
+      stroke="#22C55E"/>
+
+<text x="90"
+      y="470"
+      fill="#22C55E"
+      font-size="32">
+🎯 Mission
+</text>
+
+<text x="240"
+      y="470"
+      fill="#E2E8F0"
+      font-size="22">
+Building innovative AI and financial solutions that empower people.
+</text>
+
+<!-- About Me -->
+
+<text x="60"
+      y="600"
+      fill="white"
+      font-size="36">
+👨‍💻 About Me
+</text>
+
+<text x="80"
+      y="660"
+      fill="#CBD5E1"
+      font-size="24">
+• Full Stack Developer passionate about modern web applications
+</text>
+
+<text x="80"
+      y="710"
+      fill="#CBD5E1"
+      font-size="24">
+• AI & Machine Learning enthusiast
+</text>
+
+<text x="80"
+      y="760"
+      fill="#CBD5E1"
+      font-size="24">
+• FinTech builder focused on innovation
+</text>
+
+<text x="80"
+      y="810"
+      fill="#CBD5E1"
+      font-size="24">
+• Building products that create impact at scale
+</text>
+
+<!-- Tech Stack -->
+
+<text x="60"
+      y="900"
+      fill="white"
+      font-size="36">
+🛠 Tech Stack
+</text>
+
+<rect x="60" y="940" width="120" height="40" rx="8" fill="#3776AB"/>
+<text x="120" y="967" text-anchor="middle" fill="white">Python</text>
+
+<rect x="200" y="940" width="140" height="40" rx="8" fill="#F7DF1E"/>
+<text x="270" y="967" text-anchor="middle" fill="black">JavaScript</text>
+
+<rect x="360" y="940" width="140" height="40" rx="8" fill="#3178C6"/>
+<text x="430" y="967" text-anchor="middle" fill="white">TypeScript</text>
+
+<rect x="520" y="940" width="120" height="40" rx="8" fill="#61DAFB"/>
+<text x="580" y="967" text-anchor="middle" fill="black">React</text>
+
+<rect x="660" y="940" width="120" height="40" rx="8" fill="#339933"/>
+<text x="720" y="967" text-anchor="middle" fill="white">Node.js</text>
+
+<rect x="800" y="940" width="140" height="40" rx="8" fill="#47A248"/>
+<text x="870" y="967" text-anchor="middle" fill="white">MongoDB</text>
+
+<!-- Featured Projects -->
+
+<text x="60"
+      y="1080"
+      fill="white"
+      font-size="36">
+🚀 Featured Projects
+</text>
+
+<rect x="50" y="1120" width="330" height="180" rx="20"
+fill="#111827" stroke="#9333EA"/>
+
+<text x="215" y="1180"
+text-anchor="middle"
+fill="#C084FC"
+font-size="28">
+🏦 AI FinTech Systems
+</text>
+
+<rect x="435" y="1120" width="330" height="180" rx="20"
+fill="#111827" stroke="#EAB308"/>
+
+<text x="600" y="1180"
+text-anchor="middle"
+fill="#FACC15"
+font-size="28">
+⭐ Credit Risk Model
+</text>
+
+<rect x="820" y="1120" width="330" height="180" rx="20"
+fill="#111827" stroke="#22C55E"/>
+
+<text x="985" y="1180"
+text-anchor="middle"
+fill="#4ADE80"
+font-size="28">
+🛡 Secure Gateway
+</text>
+
+<!-- Footer -->
+
+<text x="600"
+      y="1500"
+      text-anchor="middle"
+      fill="#22C55E"
+      font-size="28">
+"Code is how I solve problems and build a better future."
+</text>
+
+</svg>
 
 ## 🛠️ Tech Stack
 
