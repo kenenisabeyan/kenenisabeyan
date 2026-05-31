@@ -37,3 +37,12 @@ My interests span:
 
 My long-term vision is to build technology companies
 that create opportunities for millions of people through education.
+
+
+<h2>Current Mission</h2>
+
+Designing and scaling EDOT into a complete
+digital learning ecosystem that connects students,
+educators, institutions, and future opportunities
+through technology.
+
