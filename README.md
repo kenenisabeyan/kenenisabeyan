@@ -1,168 +1,168 @@
-```svg
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="1600"
-     viewBox="0 0 1200 1600">
 
-  <defs>
 
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="50%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#030712"/>
-    </linearGradient>
 
-    <linearGradient id="nameGradient">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
-    </linearGradient>
+<!-- Header Section with Name & Titles -->
+<div align="center">
+  <h1>Kenenisa Beyan</h1>
+  <p>
+    <strong>Full Stack Developer</strong> · 
+    <strong>AI Engineer</strong> · 
+    <strong>FinTech Builder</strong> · 
+    <strong>Entrepreneur</strong>
+  </p>
+  <p>
+    I build scalable digital products that solve real-world problems and create meaningful impact.
+  </p>
+</div>
 
-  </defs>
+<br/>
 
-  <rect width="1200" height="1600" fill="url(#bg)"/>
+<!-- Two‑Column Info: Left (Profile Views, Focus, Location, Mission) + Right (About Me) -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Profile Views</h3>
+      <p><strong>921</strong></p>
 
-  <!-- Header -->
+      <h3>🎯 Focus</h3>
+      <p>AI | FinTech | Full‑Stack</p>
 
-  <text x="600"
-        y="120"
-        text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="68"
-        font-weight="700"
-        fill="url(#nameGradient)">
-    Kenenisa Beyan
-  </text>
+      <h3>📍 Location</h3>
+      <p>Ethiopia · Based in Adama</p>
 
-  <text x="600"
-        y="175"
-        text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="24"
-        fill="#CBD5E1">
-    Full Stack Developer | AI Engineer | FinTech Builder | Entrepreneur
-  </text>
+      <h3>🚀 Mission</h3>
+      <p>To leverage technology and artificial intelligence to build innovative financial solutions that empower individuals and drive economic growth.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👤 About Me</h3>
+      <ul>
+        <li>Full Stack Developer with a passion for building modern web applications</li>
+        <li>AI & Machine Learning enthusiast exploring intelligent systems</li>
+        <li>FinTech builder focused on financial innovation and inclusion</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  <text x="600"
-        y="220"
-        text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="22"
-        fill="#94A3B8">
-    I build scalable digital products that solve real-world problems
-  </text>
+<br/>
 
-  <!-- Cards -->
+<!-- Tech Stack with Badges (shields.io) -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-  <rect x="60" y="280" width="250" height="90" rx="15"
-        fill="#111827" stroke="#2563EB"/>
+<h3>Core Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
 
-  <text x="185"
-        y="335"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="20"
-        fill="#38BDF8">
-    Profile Views
-  </text>
+<h3>AI / Machine Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=chainlink&logoColor=white" />
+</p>
 
-  <rect x="340" y="280" width="250" height="90" rx="15"
-        fill="#111827" stroke="#9333EA"/>
+<h3>DevOps & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
-  <text x="465"
-        y="335"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="20"
-        fill="#A78BFA">
-    AI | FinTech
-  </text>
+<br/>
 
-  <rect x="620" y="280" width="250" height="90" rx="15"
-        fill="#111827" stroke="#22C55E"/>
+<!-- Featured Projects -->
+<h2 align="center">📌 Featured Projects</h2>
 
-  <text x="745"
-        y="335"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="20"
-        fill="#22C55E">
-    Ethiopia
-  </text>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI FinTech Systems</h3>
+      <p>AI‑powered financial solutions for smarter transactions and insights.</p>
+      <p><em>AI / FinTech</em></p>
+    </td>
+    <td width="50%">
+      <h3>📊 Credit Risk Probability Model</h3>
+      <p>Machine learning model to predict credit risk and support lending decisions.</p>
+      <p><em>Machine Learning</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💳 Secure Payment Gateway</h3>
+      <p>A secure, scalable payment gateway built for modern applications.</p>
+      <p><em>FinTech / Backend</em></p>
+    </td>
+    <td width="50%">
+      <!-- Empty or future project -->
+    </td>
+  </tr>
+</table>
 
-  <rect x="900" y="280" width="250" height="90" rx="15"
-        fill="#111827" stroke="#EC4899"/>
+<br/>
 
-  <text x="1025"
-        y="335"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="20"
-        fill="#EC4899">
-    Adama, Ethiopia
-  </text>
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Stats</h2>
 
-  <!-- Mission -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⭐ Overall Stats</h3>
+      <ul>
+        <li><strong>Total Stars:</strong> 25</li>
+        <li><strong>Total Commits (2024):</strong> 412</li>
+        <li><strong>Total PRs:</strong> 18</li>
+        <li><strong>Total Issues:</strong> 7</li>
+        <li><strong>Contributed to:</strong> 6 repositories</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Top Languages</h3>
+      <ul>
+        <li>Python – 42.7%</li>
+        <li>JavaScript – 24.1%</li>
+        <li>TypeScript – 16.3%</li>
+        <li>HTML – 9.8%</li>
+        <li>CSS – 7.1%</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  <rect x="50"
-        y="410"
-        width="1100"
-        height="110"
-        rx="18"
-        fill="#111827"
-        stroke="#22C55E"/>
+<!-- Optional: Contribution Streak visual (using emoji progress) -->
+<div align="center">
+  <h3>🔥 Contribution Streak</h3>
+  <p>████████████████████████████░░░░░░░░░░ 42.7% of 2024</p>
+  <small><em>Based on 412 commits</em></small>
+</div>
 
-  <text x="90"
-        y="475"
-        font-family="Arial"
-        font-size="30"
-        fill="#22C55E">
-    Mission
-  </text>
+<br/>
 
-  <text x="240"
-        y="475"
-        font-family="Arial"
-        font-size="20"
-        fill="#E2E8F0">
-    Building innovative AI and financial solutions that empower people
-  </text>
+<!-- Connect With Me -->
+<h2 align="center">🔗 Connect With Me</h2>
 
-  <!-- About -->
+<div align="center">
+  <p>
+    📧 <strong>Email:</strong> <a href="mailto:kenenisab05@gmail.com">kenenisab05@gmail.com</a><br/>
+    🌐 <strong>Website:</strong> <a href="https://kenenisabeyan.vercel.app">kenenisabeyan.vercel.app</a><br/>
+    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kena05">linkedin.com/in/kena05</a><br/>
+    🐙 <strong>GitHub:</strong> <a href="https://github.com/kenenisabeyan">github.com/kenenisabeyan</a>
+  </p>
+</div>
 
-  <text x="60"
-        y="600"
-        font-family="Arial"
-        font-size="36"
-        fill="white">
-    About Me
-  </text>
+<br/>
 
-  <text x="80" y="660" font-family="Arial" font-size="24" fill="#CBD5E1">
-    • Full Stack Developer passionate about modern web applications
-  </text>
-
-  <text x="80" y="710" font-family="Arial" font-size="24" fill="#CBD5E1">
-    • AI and Machine Learning enthusiast
-  </text>
-
-  <text x="80" y="760" font-family="Arial" font-size="24" fill="#CBD5E1">
-    • FinTech builder focused on innovation
-  </text>
-
-  <text x="80" y="810" font-family="Arial" font-size="24" fill="#CBD5E1">
-    • Building products that create impact at scale
-  </text>
-
-  <!-- Footer -->
-
-  <text x="600"
-        y="1500"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="28"
-        fill="#22C55E">
-    Code is how I solve problems and build a better future
-  </text>
-
-</svg>
-```
+<!-- Quote -->
+<div align="center">
+  <blockquote>
+    <em>“Code is not just what I write, it's how I solve problems and build a better future.”</em>
+  </blockquote>
+</div>
