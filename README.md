@@ -3,12 +3,12 @@
 # 👋 Hi, I'm Kenenisa Beyan
 
 <h3>
-Full Stack Developer • AI Engineer • FinTech Builder • Entrepreneur
+Full Stack Software Developer • AI Engineer • FinTech Builder • Entrepreneur
 </h3>
 
 Building scalable digital products that solve real-world problems and create meaningful impact.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer;FinTech+Builder;Founder+of+EDOT+Platform;Building+Technology+for+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Developer;AI+Engineer;FinTech+Builder;Founder+of+EDOT+Platform;Building+Technology+for+Impact" />
 
 <br>
 
