@@ -1,207 +1,278 @@
-<div align="center">
-
-# 👋 Hi, I'm Kenenisa Beyan
-
-<h3>
-Full Stack Software Developer • AI Engineer • FinTech Builder • Entrepreneur
-</h3>
-
-Building scalable digital products that solve real-world problems and create meaningful impact.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Developer;AI+Engineer;FinTech+Builder;Founder+of+EDOT+Platform;Building+Technology+for+Impact" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-## 🎯 Mission
-
-> To leverage technology and artificial intelligence to build innovative financial and educational solutions that empower individuals and drive economic growth.
-
----
-
-# 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Who I Am
-
-- 💻 Full Stack Developer passionate about modern web applications
-- 🤖 AI & Machine Learning enthusiast
-- 💰 FinTech builder focused on innovation
-- 🌱 Learning System Design & Scalable Architecture
-- 🎓 Computer Science & Engineering Student at ASTU
-
-</td>
-
-<td width="50%">
-
-### 🎯 Current Focus
-
-- Building **EDOT Platform**
-- Exploring **Artificial Intelligence**
-- Developing **FinTech Solutions**
-- Mastering **System Design**
-- Creating products that scale globally
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠 Tech Stack
-
-### 💻 Core Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-
-### ⚙ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🏦 AI FinTech Systems
-
-AI-powered financial solutions for smarter transactions and insights.
-
-**Tech:** AI • FinTech
-
-</td>
-
-<td align="center" width="33%">
-
-### ⭐ Credit Risk Probability Model
-
-Machine learning model to predict credit risk and support lending decisions.
-
-**Tech:** Machine Learning
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛡 Secure Payment Gateway
-
-A secure and scalable payment gateway for modern applications.
-
-**Tech:** FinTech • Backend
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true"/>
+# Kenenisa Beyan
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
+### Full-Stack Software Engineer | Product Builder | Entrepreneur | Aspiring AI Engineer
 
-</div>
+**Engineering digital products that solve real-world problems and create meaningful value.**
 
-<br>
+<br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kenenisabeyan&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kenenisabeyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🌍 Location
-
-📍 Adama, Ethiopia 🇪🇹
-
-### Areas of Interest
-
-- Artificial Intelligence
-- FinTech Innovation
-- Full Stack Development
-- System Design
-- Entrepreneurship
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
+<a href="https://linkedin.com/in/kenenisa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/kenenisabeyan">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="mailto:kenenisab05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/keno05">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## About Me
+
+I'm a Full-Stack Software Engineer at **Yomtech Global**, a Computer Science and Engineering student at **Adama Science and Technology University (ASTU)**, and an entrepreneur building technology-driven products.
+
+My work focuses on engineering digital products around real-world problems — from understanding business requirements and designing solutions to developing, deploying, and refining production-ready applications.
+
+I approach software engineering beyond writing code. I care about system architecture, maintainability, scalability, user experience, and the actual value a product delivers.
+
+I'm also the founder and builder of **EDOT (Education Digital Online Tutorials)**, an EdTech initiative focused on making digital learning more accessible and effective.
+
+Alongside my engineering journey, I'm pursuing Management studies at Arsi University to strengthen my understanding of business, product development, and entrepreneurship.
+
+### What I Focus On
+
+- **Software Engineering:** Full-stack development, backend architecture, APIs, and scalable applications.
+- **Product Engineering:** Turning real-world problems and business requirements into useful digital products.
+- **Artificial Intelligence:** Building foundations toward Machine Learning and AI Engineering.
+- **Entrepreneurship:** Developing technology products with sustainable value and real-world impact.
+
+---
+
+## Professional Journey
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+**Yomtech Global**
+
+Full-Stack Software Engineer
+
+- Developing production-ready digital products.
+- Translating business requirements into technical solutions.
+- Building frontend and backend applications.
+- Collaborating with developers and project stakeholders.
+- Working across development, integration, and deployment.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Academic Background
+
+**Adama Science and Technology University**
+
+BSc in Computer Science and Engineering
+
+Expected Graduation: June 2027
+
+**Arsi University**
+
+Management Studies
+
+Building complementary knowledge in business, organizational management, and entrepreneurship.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+Projects that represent my engineering interests, product thinking, and entrepreneurial direction.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 EDOT Platform
+
+**Education Digital Online Tutorials**
+
+An EdTech initiative focused on improving digital learning through structured tutorials, technology, and intelligent learning experiences.
+
+**Focus Areas:**
+- Educational technology
+- Learning experience
+- AI-assisted education
+- Digital product development
+
+**Status:** Ongoing product development
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Production Web Applications
+
+**Real-world client and business solutions**
+
+Developing and delivering production websites that translate client requirements into functional digital experiences.
+
+**Selected Work:**
+- Fasika Caregiving Training Center
+- Business and hospitality web solutions
+- Collaborative production projects at Yomtech Global
+
+[Explore Fasika Caregiving Training Center](https://fasikacaregivingtrainingcenter.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 Intelligent Transportation Systems
+
+**Academic Software Engineering**
+
+Exploring technology-driven transportation coordination, real-time tracking, passenger notifications, and predictive analytics.
+
+**Focus Areas:**
+- Full-stack system architecture
+- Real-time data processing
+- AI/ML integration
+- User-centered system design
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+
+**Learning Through Building**
+
+Expanding my software engineering foundation toward intelligent applications and data-driven systems.
+
+**Exploration Areas:**
+- Python for AI
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology & Engineering Stack
+
+Technologies I use, have worked with, and am developing experience in.
+
+### Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,prisma,mongodb" />
+</p>
+
+### Programming & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,mysql" />
+</p>
+
+### Development Tools & Engineering Practices
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+### AI & Data Science — Learning Focus
+
+- Python for AI and data science
+- NumPy and Pandas
+- Machine Learning fundamentals
+- Model development and evaluation
+- LLM applications and RAG architectures
+
+---
+
+## 🧠 Engineering Philosophy
+
+I believe effective software engineering is a complete problem-solving process.
+
+| Engineering Stage | My Approach |
+|---|---|
+| Problem Understanding | Identify the real problem and stakeholders |
+| Requirements Analysis | Understand functional and non-functional needs |
+| System Design | Design maintainable and scalable architectures |
+| Implementation | Build reliable frontend and backend solutions |
+| Verification | Test functionality, quality, and reliability |
+| Deployment | Deliver usable production systems |
+| Continuous Improvement | Refine products through feedback and evaluation |
+
+**My principle: Build with purpose. Engineer with discipline. Deliver measurable value.**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Growing
+
+My professional development is focused on connecting software engineering, AI, and entrepreneurship.
+
+- Advancing full-stack and backend engineering.
+- Strengthening system design and software architecture.
+- Building practical foundations in AI and Machine Learning.
+- Exploring intelligent applications and AI-powered products.
+- Developing EDOT as a meaningful EdTech product.
+- Combining engineering execution with product and business thinking.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with software engineers, AI researchers, product builders, entrepreneurs, and technology professionals who believe in building useful solutions.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kenenisa/">
+<img src="https://img.shields.io/badge/LinkedIn-Kenenisa_Beyan-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:kenenisab05@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/kenenisabeyan">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://img.shields.io/badge/GitHub-kenenisabeyan-181717?style=for-the-badge&logo=github" />
 </a>
 
-</div>
+<br/><br/>
 
----
+### "Technology creates value when engineering meets real-world problems."
 
-<div align="center">
-
-## 💭 Philosophy
-
-### *"Code is not just what I write — it's how I solve problems and build a better future."*
+**Learn. Engineer. Build. Deliver.**
 
 </div>
