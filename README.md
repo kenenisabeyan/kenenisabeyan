@@ -100,6 +100,44 @@ My long-term direction is to combine Software Engineering, Artificial Intelligen
 
 ## 🚀 Selected Work
 
+Building products, engineering production systems, and turning ideas into real-world digital solutions.
+
+### 🎓 EDOT Platform
+**Founder & Product Builder**
+
+My entrepreneurial initiative, focused on transforming digital education through structured learning, accessible tutorials, and intelligent educational experiences.
+
+Building toward an EdTech platform that connects software engineering, AI, and meaningful learning outcomes.
+
+`EdTech` `Product Engineering` `AI Innovation`
+
+### 💻 Production Engineering | Yomtech Global
+**Full-Stack Software Engineer**
+
+Contributed to **7+ real-world production projects**, combining independent development and collaborative engineering.
+
+My experience spans understanding business requirements, developing full-stack solutions, integrating features, and delivering production-ready digital experiences.
+
+One example of my production work:
+
+**Fasika Caregiving Training Center**
+
+<a href="https://fasikacaregivingtrainingcenter.com/">
+<img src="https://img.shields.io/badge/Visit_Live_Project-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+`Full-Stack Development` `Production Engineering` `Team Collaboration`
+
+### 🤖 AI Engineering
+**Learning, Research & Building**
+
+Developing my AI engineering capabilities through practical learning and exploration of Machine Learning, intelligent applications, and AI-powered products.
+
+`Python` `Machine Learning` `Generative AI`
+
+
+## 🚀 Selected Work
+
 **🎓 EDOT Platform**
 
 Founder & Product Builder
