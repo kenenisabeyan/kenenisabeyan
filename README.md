@@ -1,242 +1,169 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&pause=1200&color=4F8CFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kenenisa+Beyan;Full-Stack+Software+Engineer;Product+Builder+%26+Entrepreneur;Aspiring+AI+Engineer" />
+# 👋 Hi, I'm Kenenisa Beyan
 
-### Full-Stack Software Engineer @ Yomtech Global
-
-**Product Builder · Entrepreneur · Aspiring AI Engineer**
+### Full-Stack Software Engineer | Product Builder | Entrepreneur | Aspiring AI Engineer
 
 Building digital products that solve real-world problems and create meaningful value.
 
 <br/>
 
 <a href="https://linkedin.com/in/kenenisa/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/kenenisabeyan">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:kenenisab05@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=kenenisabeyan&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-<table>
-<tr>
-<td width="52%" valign="top">
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer at **Yomtech Global**, pursuing Computer Science and Engineering at **Adama Science and Technology University (ASTU)**, alongside Management studies at Arsi University.
+I'm a Full-Stack Software Engineer at **Yomtech Global**, pursuing Computer Science and Engineering at **Adama Science and Technology University (ASTU)**, with additional Management studies at Arsi University.
 
-I build production-ready digital products by connecting problem understanding, engineering, system design, and product thinking.
+I focus on building production-ready digital products by connecting problem understanding, software engineering, system design, and product thinking.
 
-I'm also the founder and builder of **EDOT (Education Digital Online Tutorials)**, an EdTech initiative focused on improving digital learning through technology.
+I'm also building **EDOT (Education Digital Online Tutorials)**, an EdTech initiative focused on improving digital learning through technology.
 
-My ambition is to combine Software Engineering, Artificial Intelligence, and Entrepreneurship to build solutions that create meaningful impact.
-
-</td>
-<td width="48%" valign="top">
+My long-term direction is to combine Software Engineering, Artificial Intelligence, and Entrepreneurship to develop intelligent products that create meaningful impact.
 
 ## 🎯 Current Focus
 
-💻 **Software Engineering**
+💻 Full-Stack Engineering & System Architecture
 
-Full-stack development, backend architecture, APIs, and scalable systems.
+🤖 AI Engineering & Machine Learning
 
-🤖 **AI Engineering**
+🚀 EDOT & Digital Product Development
 
-Python, Machine Learning, intelligent applications, and LLM technologies.
+📈 Product Strategy & Technology Entrepreneurship
 
-🚀 **Product Development**
+## 🛠️ Technology Stack
 
-EDOT, digital products, and real-world problem solving.
+**Frontend**
 
-📈 **Entrepreneurship**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
 
-Product strategy, business understanding, and technology innovation.
+**Backend & Databases**
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,prisma,mongodb,mysql"/>
 
----
+**AI & Data Science**
 
-## 🚀 Selected Work
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+Python • NumPy • Pandas • Scikit-learn • Machine Learning
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux"/>
+
+
+## 🛠️ Technology Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 EDOT Platform
+### 💻 Frontend Engineering
 
-**Education Digital Online Tutorials**
-
-An EdTech initiative focused on accessible digital learning, structured tutorials, and intelligent learning experiences.
-
-**Role:** Founder & Product Builder
-
-**Focus:** EdTech · Product Engineering · AI-assisted Learning
-
-<sub>🟢 Ongoing Development</sub>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4" />
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Production Web Applications
+### ⚙️ Backend & Databases
 
-Building real-world business and client solutions at Yomtech Global.
-
-Selected work includes:
-
-• Fasika Caregiving Training Center
-
-• New Base Ethiopia International Hotel
-
-**Focus:** Full-Stack Development · Business Solutions · Production Engineering
-
-<a href="https://fasikacaregivingtrainingcenter.com/">Visit Fasika Caregiving Training Center ↗</a>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,prisma,mongodb,mysql&perline=4" />
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚌 Intelligent Transportation Systems
+### 🤖 AI & Data Science
 
-Exploring smarter transportation coordination through real-time tracking, passenger notifications, and predictive analytics.
-
-**Focus:** System Architecture · Real-Time Applications · AI/ML Research
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow&perline=4" />
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
+### 🔧 Development Tools
 
-Developing the foundations to engineer intelligent software products.
-
-**Focus:**
-
-• Python & Data Science
-
-• Machine Learning & Deep Learning
-
-• Large Language Models
-
-• RAG & AI-powered Applications
-
-<sub>🔵 Learning & Building</sub>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&perline=4" />
+</div>
 
 </td>
 </tr>
 </table>
 
----
 
-## 🛠️ Technology Stack
+## 🚀 Selected Work
 
-### Frontend Engineering
+**🎓 EDOT Platform**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+Founder & Product Builder
 
-### Backend & Databases
+An EdTech initiative exploring accessible digital learning, structured tutorials, and intelligent learning experiences.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,prisma,mongodb,mysql" />
-</p>
+**🌐 Production Web Applications**
 
-### 🤖 AI & Data Science
+Full-Stack Software Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+Developing real-world business and client solutions at Yomtech Global, including the Fasika Caregiving Training Center website.
 
-Python · NumPy · Pandas · Scikit-learn · Machine Learning
+[Visit Fasika Caregiving Training Center](https://fasikacaregivingtrainingcenter.com/)
 
-### Development Tools
+**🤖 AI Engineering**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
-</p>
+Learning and building toward intelligent applications, Machine Learning, and AI-powered digital products.
 
----
+## 🧠 Engineering Approach
 
-## 🧠 Engineering Philosophy
+Understand the problem → Design the solution → Engineer the product → Validate the results → Deliver value.
+
+I believe great software is not simply functional. It should be reliable, maintainable, scalable, and valuable to the people who use it.
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-**Understand → Design → Engineer → Validate → Deliver**
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-</div>
-
-I approach software development as an engineering process, not simply a coding activity.
-
-My focus is on understanding the problem, designing maintainable solutions, building reliable systems, and delivering products that create real value.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kenenisabeyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisabeyan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kenenisabeyan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌱 Beyond Code
-
-My professional development is guided by continuous learning, practical engineering, and building products with purpose.
-
-Currently strengthening my expertise in:
-
-• Software Architecture and System Design
-
-• Advanced Backend Engineering
-
-• Artificial Intelligence and Machine Learning
-
-• Product Development and Entrepreneurship
-
----
-
 <div align="center">
-
-## 🤝 Let's Connect
-
-Interested in software engineering, AI, technology products, and meaningful collaborations.
-
-<a href="https://linkedin.com/in/kenenisa/">
-<img src="https://img.shields.io/badge/LinkedIn-Kenenisa_Beyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:kenenisab05@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
 
 ### 💡 Build with Purpose. Engineer with Discipline. Create Impact.
 
 *Learning continuously. Building intelligently. Engineering the future.*
-
-📍 Addis Ababa, Ethiopia 🇪🇹
 
 </div>
