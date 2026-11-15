@@ -47,26 +47,6 @@ My long-term direction is to combine Software Engineering, Artificial Intelligen
 
 📈 Product Strategy & Technology Entrepreneurship
 
-## 🛠️ Technology Stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,prisma,mongodb,mysql"/>
-
-**AI & Data Science**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-
-Python • NumPy • Pandas • Scikit-learn • Machine Learning
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux"/>
-
 
 ## 🛠️ Technology Stack
 
