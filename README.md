@@ -135,25 +135,6 @@ Developing my AI engineering capabilities through practical learning and explora
 
 `Python` `Machine Learning` `Generative AI`
 
-
-## 🚀 Selected Work
-
-**🎓 EDOT Platform**
-
-Founder & Product Builder
-
-An EdTech initiative exploring accessible digital learning, structured tutorials, and intelligent learning experiences.
-
-**🌐 Production Web Applications**
-
-Full-Stack Software Engineering
-
-Developing real-world business and client solutions at Yomtech Global, including the Fasika Caregiving Training Center website.
-
-[Visit Fasika Caregiving Training Center](https://fasikacaregivingtrainingcenter.com/)
-
-**🤖 AI Engineering**
-
 Learning and building toward intelligent applications, Machine Learning, and AI-powered digital products.
 
 ## 🧠 Engineering Approach
